@@ -1,0 +1,25 @@
+{
+  "name": "r",
+  "version": "1.0.0",
+  "description": "this is isha",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isha10gupta/react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "isha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isha10gupta/react/issues"
+  },
+  "homepage": "https://github.com/isha10gupta/react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
